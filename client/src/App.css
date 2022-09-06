@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.canvas-three{
+  width: 100vw;
+  height: 100vh;
+}
+
+.info{
+  position: fixed;
+  right: 10px;
+  top: 10px;
+  background-color: #fff;
+}
+.weaponbtn{
+ height: 10vh;
+ line-height: 10vh;
+ text-align: center;
+ border: 1px solid red; 
+}
